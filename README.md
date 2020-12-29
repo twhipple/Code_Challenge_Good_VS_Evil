@@ -1,2 +1,2 @@
-# Code_Challenge_Good_VS_Evil
+# Code Challenge Good VS Evil
 Another fun code challenge on Codewars
