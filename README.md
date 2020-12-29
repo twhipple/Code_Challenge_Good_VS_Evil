@@ -5,16 +5,16 @@
 
 ![](https://raw.githubusercontent.com/twhipple/Code_Challenge_Good_VS_Evil/master/Images/tom-barrett-7FNOH-qSxMI-unsplash.jpg)
 
-*Bridge connecting Buda and Pest - similar to connecting word endings! Source: Tom Barrett, freeimages.com*
+*This sunset reminds of a war between Good and Evil! Source: Tom Barrett, freeimages.com*
 
 
 ## Code Challenge Good VS Evil
 
-Another fun code challenge on Codewars. This was had a really fun gaming problem to it. One that I could see gets used in some acutal coding situations.
+Another fun code challenge on Codewars. This was had a really fun gaming problem to it. One that I could see gets used in some acutal coding situations. Ultimately it came down to just adding up points on either side...
 
 ![](https://raw.githubusercontent.com/twhipple/Code_Challenge_Good_VS_Evil/master/Images/mario-dobelmann-QKBc8uYQDH0-unsplash.jpg)
 
-*Hungarian flag - it has a nice harmony to it! Source: Mario Dobelmann, freeimages.com*
+*It's easy to see in this fern the difference of life and death! Source: Mario Dobelmann, freeimages.com*
 
 ## Task
 
@@ -55,7 +55,10 @@ All values are non-negative integers. The resulting sum of the worth for each si
 
 ## Output:
 
-Return "Battle Result: Good triumphs over Evil" if good wins, "Battle Result: Evil eradicates all trace of Good" if evil wins, or "Battle Result: No victor on this battle field" if it ends in a tie.
+Return 
+* "Battle Result: Good triumphs over Evil" if good wins, 
+* "Battle Result: Evil eradicates all trace of Good" if evil wins, or 
+* "Battle Result: No victor on this battle field" if it ends in a tie.
 
 
 ## Additionally
@@ -66,4 +69,4 @@ Thank you to Codewars for helping me practice my Python skills.
 
 ![](https://raw.githubusercontent.com/twhipple/Code_Challenge_Good_VS_Evil/master/Images/tech-nick-5YuVGW2deMw-unsplash.jpg)
 
-*Keyboard with multiple languages (probably not Hungarian). Source: Tech-Nick, freeimages.com *
+*Silly little Evil guy on a sign - please enter though! Source: Tech-Nick, freeimages.com *
