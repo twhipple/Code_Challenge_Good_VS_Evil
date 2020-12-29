@@ -3,7 +3,7 @@
 
 # Code Challenge: 
 
-![](https://raw.githubusercontent.com/twhipple/Code_Challenge_Good_VS_Evil/main/Images/tom-barrett-7FNOH-qSxMI-unsplash.jpg)
+![](https://raw.githubusercontent.com/twhipple/Code_Challenge_Good_VS_Evil/master/Images/tom-barrett-7FNOH-qSxMI-unsplash.jpg)
 
 *Bridge connecting Buda and Pest - similar to connecting word endings! Source: Tom Barrett, freeimages.com*
 
@@ -12,7 +12,7 @@
 
 Another fun code challenge on Codewars. This was had a really fun gaming problem to it. One that I could see gets used in some acutal coding situations.
 
-![](https://raw.githubusercontent.com/twhipple/Code_Challenge_Good_VS_Evil/main/Images/mario-dobelmann-QKBc8uYQDH0-unsplash.jpg)
+![](https://raw.githubusercontent.com/twhipple/Code_Challenge_Good_VS_Evil/master/Images/mario-dobelmann-QKBc8uYQDH0-unsplash.jpg)
 
 *Hungarian flag - it has a nice harmony to it! Source: Mario Dobelmann, freeimages.com*
 
@@ -64,6 +64,6 @@ This kata was written by: Frzy
 
 Thank you to Codewars for helping me practice my Python skills.
 
-![](https://raw.githubusercontent.com/twhipple/Code_Challenge_Good_VS_Evil/main/Images/tech-nick-5YuVGW2deMw-unsplash.jpg)
+![](https://raw.githubusercontent.com/twhipple/Code_Challenge_Good_VS_Evil/master/Images/tech-nick-5YuVGW2deMw-unsplash.jpg)
 
 *Keyboard with multiple languages (probably not Hungarian). Source: Tech-Nick, freeimages.com *
